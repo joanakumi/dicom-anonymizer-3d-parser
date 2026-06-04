@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# DICOM / medical data
+*.dcm
+*.dicom
+*.nii
+*.zip
+*.tar
+
+# system files
+.DS_Store
