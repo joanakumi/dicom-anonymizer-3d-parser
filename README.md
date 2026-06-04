@@ -80,6 +80,9 @@ Visualization
 
 ## Example Output
 
+Below is a sample visualization from the reconstructed CT volume:
+
+![CT Output](images/volume_slices.png)
 
 Volume Shape: (512, 512, 88)
 
